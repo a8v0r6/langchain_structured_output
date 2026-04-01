@@ -6,5 +6,8 @@ langchain-core
 langchain-openai
 openai
 
+# Anthropic Integration
+langchain-anthropic
+
 # Environment Variable Management
 python-dotenv
